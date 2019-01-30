@@ -17,6 +17,41 @@ const example = {
   "gender": "F"
 }
 
+const interns = [
+  {
+     id: 1,
+     email: 'mmelloy0@psu.edu',
+     name: 'Mitzi',
+     gender: 'F'
+  },
+  {
+    id: 2,
+    email: 'kdiben1@tinypic.com',
+    name: 'Kennan',
+    gender: 'M'
+  },
+  {
+    id: 3,
+    email: 'kmummery2@wikimedia.org',
+    name: 'Keven',
+    gender: 'M'
+  },
+  // 4,gmartinson3@illinois.edu,Gannie,M
+// 5,adaine5@samsung.com,Antonietta,F
+  {
+    id: 4,
+    email: 'gmartin3@illinois.edu',
+    name: 'Gannie',
+    gender: 'M'
+  },
+  {
+    id: 5,
+    email: 'adaine5@samsung.com',
+    name: 'Antonietta',
+    gender: 'F'
+  }
+]
+
 // Write your intern objects here:
 
 
